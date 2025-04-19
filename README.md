@@ -24,11 +24,13 @@ This project takes Olympic medal data and renders it on a beautiful, interactive
 | `medals_by_countries.csv`| CSV data with country medal counts         |
 | `olympic_medal_map.html` | Interactive HTML map output (viewable)     |
 
-## 📸 Screenshot (Optional)
-_Add a screenshot of your map here once uploaded._
+
 
 ## 🔧 How to Run
 1. Clone the repo:
    ```bash
    git clone https://github.com/Nytierra123/olympic-medal.git
    cd olympic-medal
+   or click
+   http://127.0.0.1:56088/
+](http://127.0.0.1:56088/)
